@@ -1,0 +1,29 @@
+To Do:
+* Fix issue where crate and tiles are not same height (player can't walk between without jumping)
+* Shrink level 1
+* Github
+* Promotion?
+* Remove q shortcut for next level
+
+
+* Art, theme, music, menus, sound, tutorial
+* Jump, run, stop run?, push crate, interact with projector
+
+
+Maybe:
+* Jump higher if key held
+
+
+Done:
+* Pulling mechanic
+* Save every other position (not remove every other once stored)
+
+--------------------------------------------------------------------------------------------------
+
+Theme:
+* Main menu is now playing marquie thing outside theater
+* Level select is ticket stub (or choose a theater each with different level, or candy menu)
+* Goal is film projector, reaching it makes it go in reverse
+* Player is employee or movie character
+* Different environment/movie per level?
+* Tutorial explained through viewers watching ("...shh, the movies starting, stop talking over it")
